@@ -1,12 +1,10 @@
 # programafinal_parcial3
 
 
-<li><b>Autor:</b> Franciscomilan</li>
- <li><b>Fechas:</b> 12/05/22 - 21/05/22 </li>
- <li><b>Escuela:</b> Universidad uvm</li>
- <li><b>Materia:</b> Programacion estructurada</li>
- <li><b>Profesor:</b> Armando Cruz</li>
- <li><b>Ciclo:</b> 01/2022</li>
+<b>Autor:</b> Franciscomilan, <b>Fechas:</b> 12/05/22 - 21/05/22 <br>
+ <b>Escuela:</b> Universidad uvm, <b>Campus: </b> Villahermosa, Queretaro <br>
+ <b>Materia:</b> Programacion estructurada, <b>Profesor:</b> Armando Cruz <br>
+ <b>Ciclo:</b> 01/2022
  <br>
  <li><b> En este programa se muestra el uso de: </b></li>
  <ul>
@@ -30,7 +28,7 @@
   <li> Uso de ciclos </li>
  </ul>
 <br>
- <li> <b> Objetivo: </b> Crear un programa en C que cumpla con las indicaciones para simular el manejo de un sistema de extintores y que realice distintas funciones con la informacion recabada siendo el protecto final </li>
+ <li> <b> Objetivo: </b> Crear un programa en C que cumpla con las indicaciones para simular el manejo de un sistema de extintores y que realice distintas funciones con la informacion recabada siendo el protecto final de la materia. </li>
  <br>
  <li><b> Breve descripción: </b> Programa en C que sera el proyecto final para la materia programacion estructurada.  </li>
 
