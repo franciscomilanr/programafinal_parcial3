@@ -12,6 +12,10 @@
 	 <li> Salida de datos con printf </li>
 	<li>Librerias (directivas del procesador) </li>
  	<li>Librerias propias </li>
+	<li>Variables entero </li>
+	<li>Variables char </li>
+	<li>Variables global </li>
+	<li>Variables local <li>
   <li>Uso de archivos binarios </li>
   <li> Funcion menu </li>
   <li> Funcion agregar datos </li>
