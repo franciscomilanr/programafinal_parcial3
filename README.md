@@ -20,7 +20,7 @@
 	<li>Variables entero </li>
 	<li>Variables char </li>
 	<li>Variables global </li>
-	<li>Variables local <li>
+	<li>Variables local </li>
   <li>Uso de archivos binarios </li>
   <li> Funcion menu </li>
   <li> Funcion agregar datos </li>
