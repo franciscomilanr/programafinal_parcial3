@@ -53,7 +53,6 @@
 	<li> Apertura de archivos en modo escritura </li>
 	<li> Apertura de archivos en modo lectura </li>
   <li> Medicion de cuantos registros se guardaron en el archivo </li>
-  <li> Buffer para lectura de archivo </li>
 	<li> Calculos matematicos </li>
 	<li> Funcion strcmp </li>
 	<li> Funcion strcpy </li>
