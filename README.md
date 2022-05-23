@@ -8,9 +8,14 @@
  <br>
  <li><b> En este programa se muestra el uso de: </b></li>
  <ul>
-	 <li> Entrada de datos con scanf</li>
+		<li>Comentario varias lineas </li>
+	<li>Comentario de una linea </li>
 	 <li> Salida de datos con printf </li>
 	<li>Librerias (directivas del procesador) </li>
+		<li>Libreria stdio</li>
+	<li>Libreria string </li>
+	<li>Libreria stdlib </li>
+	 <li> Entrada de datos con scanf</li>
  	<li>Librerias propias </li>
 	<li>Variables entero </li>
 	<li>Variables char </li>
@@ -30,6 +35,32 @@
   <li> Uso de libreria string </li>
   <li> Estrucutura global </li>
   <li> Uso de ciclos </li>
+		<li> Variables local </li>
+	<li> Variables cadena </li>
+	<li> Variables entero </li>
+	<li> Variables float </li>
+	<li> Variable archivo </li>
+	<li> Variable contador </li>
+	<li> Variable archivo </li>
+	<li> Variable almacedor de caracteres de un archivo </li>
+	<li> Comparaciones </li>
+	<li> Archivos de tipo binario </li>
+	<li> Manejo de archivos </li>
+	<li> Instruccion fopen </li>
+  <li> Apertura de archivos </li>
+  <li> Cerrador de archivos </li>
+ <li> Instruccion fclose </li>
+	<li> Apertura de archivos en modo escritura </li>
+	<li> Apertura de archivos en modo lectura </li>
+  <li> Medicion de cuantos registros se guardaron en el archivo </li>
+  <li> Buffer para lectura de archivo </li>
+	<li> Calculos matematicos </li>
+	<li> Funcion strcmp </li>
+	<li> Funcion strcpy </li>
+	<li> Switch case </li>
+	<li> If - else </li>
+	<li> While </li>
+	<li> Valor de retorno </li>
  </ul>
 <br>
  <li> <b> Objetivo: </b> Crear un programa en C que cumpla con las indicaciones para simular el manejo de un sistema de extintores y que realice distintas funciones con la informacion recabada siendo el protecto final de la materia. </li>
